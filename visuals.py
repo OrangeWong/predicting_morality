@@ -1,6 +1,5 @@
-###########################################
-# Suppress matplotlib user warnings
-# Necessary for newer version of matplotlib
+# Modify from Udacity finding donor visuals
+
 import warnings
 warnings.filterwarnings("ignore", category = UserWarning, module = "matplotlib")
 #
