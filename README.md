@@ -32,8 +32,7 @@
 	- [keras] (https://keras.io/)
 
 3. Run notebook in this order: data_extraction, data_wrangling, and data_analysis
-	
-	..* data_extraction: this notebook is to extract a dataset of mulitvariable time series from MIMIC-III database.
-	..* data_wrangling: this notebook is to preprocess and clean the extracted time series by removing the outliers and exploring the time series.
-	..* data_analysis: this notebook is to predict the hospitla dealth in ICU visit based on the first 24 hours of ICU stay data.
+	- data_extraction: this notebook is to extract a dataset of mulitvariable time series from MIMIC-III database.
+	- data_wrangling: this notebook is to preprocess and clean the extracted time series by removing the outliers and exploring the time series.
+	- data_analysis: this notebook is to predict the hospitla dealth in ICU visit based on the first 24 hours of ICU stay data.
 	
